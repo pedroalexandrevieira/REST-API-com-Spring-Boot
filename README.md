@@ -3,8 +3,7 @@
 Este projecto consiste numa implementação de uma REST API usando alguns projetos do ecossistema Spring, como Spring Boot e Spring Data JPA.
 
 Requesitos:
-Eclipse
-Postman
+Eclipse e Postman
 
 Sugestões de funcionamento.
 -> Abra o projecto no eclipse
