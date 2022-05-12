@@ -10,5 +10,8 @@ Sugestões de funcionamento.
 -> Corra o servidor
 -> Abra o Postman
 -> Verifique se a API está funcional através do método Get
--> Ainda no Postman, adicione um nome através do método Post e verifique se ficou guardado através do método Get
+-> Ainda no Postman, adicione um nome através do método Post
+-> Verifique se ficou guardado
+-> Se ficou, a aplicação está funcional :)
+
 
