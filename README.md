@@ -1,17 +1,9 @@
-# REST-API-com-Spring-Boot
+# REST-API com Spring Boot
 
-Este projecto consiste numa implementação de uma REST API usando alguns projetos do ecossistema Spring, como Spring Boot e Spring Data JPA.
+This project consists in a implementation of a REST API using some Spring ecosystem projects, such as Spring Boot and Spring Data JPA.
 
-Requesitos:
-Eclipse e Postman
+Requirements: Eclipse and Postman
 
-Sugestões de funcionamento.
--> Abra o projecto no eclipse
--> Corra o servidor
--> Abra o Postman
--> Verifique se a API está funcional através do método Get
--> Ainda no Postman, adicione um nome através do método Post
--> Verifique se ficou guardado
--> Se ficou, a aplicação está funcional :)
+Operating suggestions -> Open the project in eclipse -> Run the server -> Open Postman -> Check if the API is working through the Get method -> Still in Postman, add a name through the Post method -> Check if it was saved -> If so, the application is working :)
 
 
